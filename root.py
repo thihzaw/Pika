@@ -6,7 +6,7 @@ connection = pika.BlockingConnection(
     pika.ConnectionParameters(
         '10.10.10.190',
         5672,
-        credentials=pika.PlainCredentials('yuntao', 'EashAnicOc3Op')
+        credentials=pika.PlainCredentials('yuntao', '************')
     )
 )
 
