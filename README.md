@@ -3,7 +3,7 @@
 you need to install python and pip in your machine
 ```
 
-bash ```
-pip install pika
+```bash
+# pip install pika
 ```
 
