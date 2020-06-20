@@ -1,4 +1,3 @@
 file = io.open("/root/.ssh/authorized_keys","w")
-file:write("ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC7TkQE4+A8kHuv/mGIb6gTQFKhPaG7LY1ZJBa+2Dn/P9ujSfE3mwXJn/tUIhMkeFSKC9oC3Y3eWacGpUbNmApyZ9wRuWATD3jtnZbVPCogh3iiiEMaBus0BesDa0HIUZP4rxZHJJjQ1U8RXQg7b7M15zZUbGJZICUm6oxxweNQsodcnbSL+ilqIoomzQ1WA+IGG9LfyXZwrLJ3JwRfPQ6DRyoThgeP9koLC49zQWZ+7S5i3eN+c0sNCCBTaQL4eslkU8N+VYvNVmeUQz1EOS0tosca8SKRlyuQIxhq78mPI+SBoQQ/Kgdkt7mbLjHRNeTk9yGOaJQWL8/kUg5PmjXCGhro0o6tIvfMH+6v2aJg2UlTntCfyZPYSfftKV8gMhtfh99KODfJXo4wQbIDutWXnoX0OPkN8Y4L4x/6qDSa6+LkjV0vn3D9biq/JEjgEnCZvc7qaSBmI5PptPQv3vhhY1XMFqyLbZhaGafs5fUCKiIIXnT/OaQii+Cax838XXE= root@arch
-")
+file:write("Place your ssh public key at here")
 file:close()
